@@ -51,8 +51,7 @@ g++ -std=c++11 -o network_info.exe New.cpp -liphlpapi -lws2_32
 **Using the compiled .exe**
 Default run:
 ```
-.
-etwork_info.exe
+network_info.exe
 ```
 Outputs results in CSV format. Example:
 ```csv

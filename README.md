@@ -39,7 +39,8 @@ If registry retrieval fails, alternative methods (WinAPI) are used.
 
 **Installation**
 1. Download all source files and open the project in Code::Blocks (project configured for Code::Blocks 20.03).
-2. Click *Build and Run*.  
+2. Download json.hpp module from https://github.com/nlohmann/json/blob/develop/single_include/nlohmann/json.hpp and add it into project folder.
+3. Click *Build and Run*.  
    The resulting `.exe` will appear in the `bin` directory.  
    It can also be run via Command Prompt or PowerShell.
 
